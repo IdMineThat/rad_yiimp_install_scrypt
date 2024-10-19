@@ -131,7 +131,7 @@ clear
 		read -e -p "Enter a Local Wireguard Private IP for this server (${PRIVATE_IP}): " wg_ip
 	# curl -q http://ifconfig.me
 	fi
-	read -e -p "Desired Yiimp install?(1=Kudaraidee(error white page),2=tpruvot,3=Afiniel-Tech,4=Afiniel,5=SabiasQue) [4 by default] : " yiimpver
+	read -e -p "Desired Yiimp install?(1=Kudaraidee(error white page),2=tpruvot,3=tpfuemp,4=Afiniel,5=SabiasQue) [4 by default] : " yiimpver
 
 
 	clear
